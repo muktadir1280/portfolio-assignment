@@ -1,0 +1,100 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+}
+.name{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgba(221, 17, 136, 0.726);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 50px;
+}
+p{
+    color: gray;
+    font-size: 20px;
+    text-align: justify;
+}
+.hire-me{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(221, 17, 136, 0.726);
+    padding: 10px;
+    border-radius: 10px;
+}
+.fixed-margin{
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.fixed-margin1{
+    margin-top: 200px;
+    margin-left: 220px;
+}
+.resume{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: rgba(221, 17, 136, 0.726);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.header-part{
+    height: 830px;
+    padding-bottom: 150px;
+    padding-right: 80px;
+    background-image: url(images/header-bg.png)
+;
+}
+.middle-part{
+    height: 830px;
+    padding-bottom: 150px;
+    padding-right: 80px;
+    background-image: url(images/biography-bg.png);
+}
+.latest{
+    text-align: center;
+    font-size: xx-large;
+}
+.picture{
+    float: left;
+    width: 30%;
+    margin-left: 45px;
+}
+.third-part{
+    height: 600px;
+}
+.founder{
+    text-align: center;
+}
+#founder{
+    color: gray;
+    font-weight: lighter;
+}
+p{
+    text-align: center;
+    color: black;
+    
+}
+.message{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: aqua;
+    width: 50%;
+    color: white;
+    
+    
+}
+.end{
+    color: gray;
+}
